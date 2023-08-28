@@ -1,0 +1,1 @@
+print("Ali Dayı , Ayşe Teyze")
