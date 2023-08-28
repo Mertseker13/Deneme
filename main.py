@@ -1,1 +1,1 @@
-print("Ali Dayı , Ayşe Teyze, Besiktas")
+print("Ali Dayı , Ayşe Teyze", "Besiktas")
